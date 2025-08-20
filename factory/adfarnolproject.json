@@ -1,0 +1,9 @@
+{
+	"name": "adfarnolproject",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "81c2658c-242f-4578-b89c-3987f947cf69",
+		"tenantId": "af85e3fe-12df-4736-b4d3-af3e8fe3f7a6"
+	}
+}

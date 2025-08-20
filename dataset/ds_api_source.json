@@ -1,0 +1,16 @@
+{
+	"name": "ds_api_source",
+	"properties": {
+		"linkedServiceName": {
+			"referenceName": "ls_rick_and_morty_api",
+			"type": "LinkedServiceReference"
+		},
+		"annotations": [],
+		"type": "RestResource",
+		"typeProperties": {
+			"relativeUrl": "api/character"
+		},
+		"schema": []
+	},
+	"type": "Microsoft.DataFactory/factories/datasets"
+}

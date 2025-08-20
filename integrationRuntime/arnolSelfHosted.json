@@ -1,0 +1,6 @@
+{
+	"name": "arnolSelfHosted",
+	"properties": {
+		"type": "SelfHosted"
+	}
+}
